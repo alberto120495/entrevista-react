@@ -1,0 +1,12 @@
+.save {
+  background-color: transparent;
+  color: green;
+  border: 1px solid green;
+  transition: 0.5s all ease-in-out;
+  padding: 5px;
+}
+
+.save:hover {
+  background-color: green;
+  color: white;
+}

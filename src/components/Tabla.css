@@ -1,0 +1,16 @@
+.verde {
+  color: green;
+}
+
+.rojo {
+  color: red;
+}
+
+.tabla {
+  display: flex;
+  justify-content: space-between;
+}
+
+.material-icons {
+  cursor: pointer;
+}
